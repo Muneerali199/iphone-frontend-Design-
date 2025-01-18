@@ -1,0 +1,78 @@
+
+body{
+    background-color: rgb(96, 79, 79);
+}
+
+
+.container{
+    height: 700px;
+    width: 350px;
+    background-image: url(iphon.jpeg);
+    background-size: cover;
+    background-color: aliceblue;
+    border-radius: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 30%;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.camera{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.camera2{
+      height: 20px;
+      width: 20px;
+      background-color: rgb(144, 121, 121);
+      margin-top: 5px;
+      margin-left: 5px;
+      border-radius: 50px;
+      display: flex;
+      justify-content: center;
+      position: absolute;
+
+}
+
+#line{
+    height: 6px;
+    width: 150px;
+    background-color: #000000;
+    margin-top: 690px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+
+.bat{
+    height: 100px;
+    width: 400px;
+    margin-left: 205px;
+    font-size: 20px;
+    margin-top: 10px;
+    position: absolute;
+    color: rgb(0, 0, 0);
+}
+
+#wifi{
+    height: 100px;
+    width: 400px;
+    margin-left: 170px;
+    font-size: 20px;
+    margin-top: 10px;
+    position: absolute;
+    color: rgb(0, 0, 0);
+}
+
+
+h4{
+    margin-left: 40px;
+    margin-top: 25px;
+}
